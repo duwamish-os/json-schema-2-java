@@ -6,6 +6,9 @@
     },
     "artistName": {
       "type": "string"
+    },
+    "started": {
+      "type": "string"
     }
   },
   "required": ["id", "artistName"]
